@@ -2,9 +2,9 @@
 
 Este é um repositório de dashboards, cada dashboard que desenvolvi pode ser acessado em seu respectivo link abaixo :)
 
-* [Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZWRlNTQ0ZTUtZGU1ZC00MGNlLWIwMzgtMjM3MWUwZWJiMzc3IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9&pageName=ReportSection701e66527ebebff0cd58)
+* [Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiYzNjMDI0N2UtZTNkZS00MjllLTllOTEtODgxN2QzZDcwMjhmIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
 
-* [Dashboard_Setores](https://app.powerbi.com/view?r=eyJrIjoiODY4MGY5YzQtNWQwZi00MDk3LTkzYzQtNDhmZGY0ZDY5MmZiIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9&pageName=ReportSection)
+* [Dashboard_Setores](https://app.powerbi.com/view?r=eyJrIjoiMmVkNzdmMWEtOTcxMS00YjIxLTgyMWUtMmI0MDJlZWFkZDE0IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
 
 * [Dashboard_Vendas](https://app.powerbi.com/view?r=eyJrIjoiOTllZWIxM2YtZGRhNS00ZDMxLWFkOWYtZTI3YjBiMzRiMDJiIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
 
@@ -14,7 +14,7 @@ Este é um repositório de dashboards, cada dashboard que desenvolvi pode ser ac
 
 * [Dashboard_Compras](https://app.powerbi.com/view?r=eyJrIjoiZjljNWZmMDEtZGFkNC00NzUxLThiMTEtNjc1MDIwNDg4NDNhIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
 
-* [Dashboard_Clientes](https://app.powerbi.com/view?r=eyJrIjoiMmQxYWJjODYtNzYyMy00NTY3LTkyZjktNjdmZTBjNDFmYWY1IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9&pageName=ReportSectiond4123a169786008b9054)
+* [Dashboard_Clientes](https://app.powerbi.com/view?r=eyJrIjoiZWFkZjVjNzgtMTY0Ny00MjM5LWI2ZjEtNDg3ZjQ5OTQxODBjIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
 
 * [Dashboard_Empower](https://app.powerbi.com/view?r=eyJrIjoiNGJiOTQ1MGMtNGI3My00NDllLTlkYTQtZmE3MjRmN2JlYWRjIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9&pageName=ReportSection)
 
