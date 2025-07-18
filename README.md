@@ -2,7 +2,7 @@
 
 Este é um repositório de dashboards, cada dashboard que desenvolvi pode ser acessado em seu respectivo link abaixo :)
 
-* [Dashboard_Comercia](https://app.powerbi.com/view?r=eyJrIjoiNTMwYmRkOTgtOGVmMy00MWVjLWI5ODctMGNmZWUxZjA3NzUzIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
+* [Dashboard_Comercial](https://app.powerbi.com/view?r=eyJrIjoiNTMwYmRkOTgtOGVmMy00MWVjLWI5ODctMGNmZWUxZjA3NzUzIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
 
 * [Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiYzNjMDI0N2UtZTNkZS00MjllLTllOTEtODgxN2QzZDcwMjhmIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
 
